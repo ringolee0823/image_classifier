@@ -1,1 +1,3 @@
-# Classifier by Deeping Learning
+# Image Classifier
+
+## To classify images of Cheetah, Leopard and Jaguar!
